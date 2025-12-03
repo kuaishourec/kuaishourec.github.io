@@ -6,8 +6,3 @@ tags: [GitHub Pages, Jekyll]
 ---
 
 这是我的第一篇使用 Chirpy 主题发布的博客！
-
-支持 **Markdown**、代码高亮：
-
-```python
-print("Hello, KuaiShouRec!")
